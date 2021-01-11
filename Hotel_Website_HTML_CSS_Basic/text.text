@@ -1,0 +1,16 @@
+header -> nav -> div id="container"
+              -> h1-> clas logo
+              ->ul> li> 3*a ->index.html ->
+              cass="current"
+       -> div id showcase
+             div-> id container ->h2-Welcome
+                                ->p
+                                ->a ->class="btn"
+
+                    
+ header -> nav -> h1 -> class logo
+              -> ul > li > 3*a -> a-> index.html -> class="current"
+       -> div id showcase
+            div-> id container -> h2 - Welcome
+                               -> p
+                               -> a -> class="btn"
